@@ -1,0 +1,91 @@
+@font-face {
+    src: url(fonts/PlaywriteGBJ-VariableFont_wght.ttf);
+    font-family: PlaywriteGBJ-VariableFont_wght;
+}
+
+body{
+    background-color: rgb(65, 63, 63);
+    margin: 10px;
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-family: "Playwrite GB J"
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+h1{
+    border : 5px solid rgb(0, 221, 255);
+    border-radius: 20px;
+}
+
+h1{
+    text-shadow:  3px 3px 10px rgb(37, 100, 173), -3px -3px 10px rgb(160, 36, 36);
+}
+
+h2{
+    color: rgb(233, 132, 219);
+    font-size: medium
+    
+}
+#p1{
+    color: aqua;
+}
+
+#p2{
+    color: yellow;
+   
+}
+
+#p3{
+    color: lime;
+}
+
+#p4{
+    color: orange;
+}
+
+#boxy{
+    margin-top: 50px;
+    margin-left: 500px;
+    width : 200px;
+    height: 200px;
+    background-color: rgb(205, 205, 205);
+    box-shadow: 10px 10px 10px greenyellow, -10px -10px 10px rgb(179, 70, 70);
+}
+
+#audio1{
+    margin-left: 450px
+}
+
+#p1{
+    margin-top: 5px;
+}
+
+#hr1{
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
